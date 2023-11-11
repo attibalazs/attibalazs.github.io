@@ -5,7 +5,7 @@ date:   2023-11-10 22:44:24 +0000
 categories: llm chatgpt
 ---
 
-![Chatgpt and Google](../assets/images/chatgpt_google_cartoon.png)
+![Chatgpt and Google](/assets/images/chatgpt_google_cartoon.png)
 
 In the digital age, where information is just a click or a question away, the dilemma of choosing between Google's search prowess and ChatGPT's conversational brilliance has become a common conundrum.
 
