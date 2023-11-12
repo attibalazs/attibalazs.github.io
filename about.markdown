@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+This is the personal website of Attila Balazs and a hub for exploratory missions into the world of tech, showcasing a journey of impactful data science and ML innovations.
+
 I believe that data science and machine learning are not just tools, but pathways to transforming industries and driving innovation.
 
 ## Professional Summary:
