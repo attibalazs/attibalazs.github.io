@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: single
 title:  "The Tech Lead: Clarity, Problem-Solving, and Technical Safeguard"
 date:   2023-11-12 17:44:24 +0000
 categories: tech-lead
 ---
 
-![tech lead cartoon](/assets/images/tech_lead_cartoon.png)
+![tech lead cartoon](/assets/images/tech_lead_space.png)
 
 In the fast-paced and often intricate world of technology projects, the role of a tech lead is indispensable. Tech leads are more than just senior members of the team; they are the navigators who provide clarity, dissect complex challenges, and stand as the last line of defense against technical issues. This multifaceted role is critical in steering projects towards success and maintaining the technical health of a project.
 

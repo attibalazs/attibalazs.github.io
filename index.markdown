@@ -1,6 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+author_profile: true
 ---
+
+Welcome to my digital garden. Here I document my work in **Data Science**, **Machine Learning**, and **Software Engineering**. 
+Feel free to explore my [Projects](/projects/) or read my latest thoughts below.
+
