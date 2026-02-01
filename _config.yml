@@ -22,14 +22,61 @@ title: Exploratory Missions
 description: >- # this means to ignore newlines until "baseurl:"
  The personal website of Atti Balazs, a hub for exploratory missions into the world of tech, showcasing a journey of impactful data science and ML innovations.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://attibalazs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: attibalazs
 github_username:  attibalazs
 
+minimal_mistakes_skin: "dark" # Switching to dark for a cleaner dev look
+
+# Site Author
+author:
+  name: "Attila Balazs"
+  bio: "Data Science & ML Enthusiast"
+  avatar: "/assets/images/avatar.jpeg" # Using an existing image as placeholder
+  location: "London"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/attibalazs"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/attibalazs"
+
 # Build settings
-theme: minima
+remote_theme: mmistakes/minimal-mistakes
+
+# Default Layouts
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false # Disabled until a provider (Disqus/Giscus) is configured
+      share: true
+      related: true
+      # Polishing social share buttons: Only show X/Twitter (and Reddit/Hacker News if desired, but disabling the cluttered ones)
+      share_on_facebook: false
+      share_on_linkedin: true # Keeping LinkedIn as it's professional
+      share_on_twitter: true
+      share_on_pinterest: false
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      share: false # Clean pages don't usually need share buttons
+
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-remote-theme
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
