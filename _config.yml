@@ -30,10 +30,10 @@ minimal_mistakes_skin: "dark" # Switching to dark for a cleaner dev look
 
 # Site Author
 author:
-  name: "Atti Balazs"
-  bio: "Data Science & ML Innovator"
-  avatar: "/assets/images/tech_lead_cartoon.png" # Using an existing image as placeholder
-  location: "Earth"
+  name: "Attila Balazs"
+  bio: "Data Science & ML Enthusiast"
+  avatar: "/assets/images/avatar.jpeg" # Using an existing image as placeholder
+  location: "London"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

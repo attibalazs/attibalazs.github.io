@@ -7,15 +7,19 @@ author_profile: true
 
 A showcase of my exploratory missions into Data Science, Machine Learning, and Software Engineering.
 
-## Current Missions
+## Current Projects
 
-### 🚀 Mission 1: [Project Name]
-*A brief description of the project and the impact it made.*
-[GitHub Repo](https://github.com/attibalazs) | [Live Demo](#)
+### 🚀 AI Fitness Coach & Journal
+*A privacy-focused AI coaching application that runs entirely on your local device. It provides personalized recommendations for training and recovery to help you achieve your fitness goals. Includes a journaling feature that combines activity logs with training history to provide contextual coaching.*
 
-### 📊 Mission 2: [Project Name]
-*A brief description of the project and the impact it made.*
-[GitHub Repo](https://github.com/attibalazs) | [Live Demo](#)
+**Status:** Active Development
+[GitHub Repo](https://github.com/attibalazs/coach-conejito)
+
+### 📊 Financial Data Analysis Framework
+*Exploring open-source approaches to transaction pattern detection and anomaly identification in financial systems using publicly available datasets and research papers.*
+
+**Status:** Research Phase
+[GitHub Repo](https://github.com/attibalazs)
 
 ---
-*Stay tuned for more updates as I continue my journey of innovation.*
+*Stay tuned for more updates as I continue exploring new challenges.*

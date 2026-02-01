@@ -1,13 +1,14 @@
 ---
 layout: single
 title:  "Tech Lead: The CTO of the Product"
-date:   2026-01-22 17:44:24 +0000
+date:   2023-11-13 00:00:00 +0000
+last_modified_at: 2026-01-22 17:44:24 +0000
 categories: tech-lead data-science
 ---
 
 ![tech lead abstract space](/assets/images/tech_lead_space.png)
 
-I wrote this post to clarify an ambiguity I see in development teams at large corporates. Too often, the role of `Tech Lead` is filled by someone who acts primarily as a tracker of tasks—a project manager in disguise.
+I wrote this post to clarify an ambiguity I see in development teams at large corporates. Too often, the role of Tech Lead is filled by someone who acts primarily as a tracker of tasks—a project manager in disguise.
 
 While project management is valuable, it is not technical leadership. A non-technical lead cannot drive deep integration, cannot foresee architectural dead-ends, and cannot mentor engineers through complex roadblocks.
 
@@ -15,7 +16,7 @@ The distinction is simple:
 
 > **If the Product Manager is the CEO of the product, the Tech Lead is the CTO.**
 
-While the PM defines the *why* and the *what* (market fit, user value), the Tech Lead is responsible for the *how* (feasibility, scalability, and integration). Without this technical anchor, a Data Science team is just a group of people writing isolated code.
+While the PM defines the *why* and the *what* (market fit, user value), the Tech Lead is responsible for the *how* (feasibility, scalability, and integration). Without this technical anchor, engineering and data science teams can lose direction, allowing critical technical issues to fall through the cracks.
 
 Here is what the role actually entails.
 
@@ -40,7 +41,7 @@ They act as the final line of defense by:
 
 ## 2. Synthesizing Clarity from Ambiguity
 
-Data Science teams often face conflicting requirements: stakeholders want "AI magic," product managers demand speed, and infrastructure teams require stability. A Tech Lead’s role is to absorb this noise and transmit clear signals to the team.
+Data Science teams often face conflicting requirements: stakeholders want "AI magic," product managers demand speed, and infrastructure teams require stability. A Tech Lead's role is to absorb this noise and transmit clear signals to the team. In my opinion, the more senior a role is, the more uncertainty they can deal with.
 
 * **Translating Requirements:** They convert vague business goals into concrete technical specifications. They ensure the team understands *why* they are building a model, not just *how*.
 * **Managing the Environment:** They buffer the team from organizational churn. By filtering external distractions, they allow individual contributors to focus on deep work.
@@ -54,16 +55,15 @@ A successful ML team cannot operate in silos. The Tech Lead must dismantle the "
 
 They drive a culture of holistic responsibility:
 
-**Bridging the Gap**
-We provide the engine (the model), but an engine cannot run without fuel (timely, high-quality data) or a chassis (a delightful user experience). The Tech Lead ensures the team can speak the language of `Data Engineers` and `Frontend Developers`, clearly articulating API contracts and schema requirements.
+* **Bridging the Gap:** The team provides the engine (the model), but an engine cannot run without fuel (timely, high-quality data) or a chassis (a delightful user experience). The Tech Lead ensures the team can speak the language of Data Engineers and Frontend Developers, clearly articulating API contracts and schema requirements.
 
-**Cross-Functional Fluency**
-Even though we are Data Scientists, we must be willing to get hands-on with the stack. If a data pipeline is blocked or a frontend integration stalls, the team must step outside their immediate role to unblock it.
+* **Cross-Functional Fluency:** Even though the team members are Data Scientists, they must be willing to get hands-on with the stack. If a data pipeline is blocked or a frontend integration stalls, the team must step outside their immediate role to unblock it.
 
-**Total Outcome Ownership**
-The model is core, but it cannot live on its own. The Tech Lead instills the mindset that we don't just own the algorithm; we own the success of the product.
-* *If the data is bad, it's our problem.*
-* *If the UI is confusing, it's our problem.*
+* **Total Outcome Ownership:** The model is core, but it cannot live on its own. The Tech Lead instills the mindset that the team doesn't just own the algorithm; they own the success of the product.
+    * *If the data is bad, it's our problem.*
+    * *If the UI is confusing, it's our problem.*
+
+* **Mentoring the Team:** Teams usually have a mix of senior and junior people. The Tech Lead ensures everyone works well together, keeps people motivated, challenges them to grow, and creates opportunities for professional advancement.
 
 ---
 

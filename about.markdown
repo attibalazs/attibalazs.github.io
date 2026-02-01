@@ -4,27 +4,34 @@ title: About
 permalink: /about/
 ---
 
-This is the personal website of Atti Balazs, a hub for exploratory missions into the world of tech, showcasing a journey of impactful data science and ML innovations.
-
-I believe that data science and machine learning are not just tools, but pathways to transforming industries and driving innovation.
+I'm Attila Balazs, Head of Data Science at ARC Comply, where I lead the development of high-performance machine learning solutions for compliance and risk management.
 
 ## Professional Summary
 
-As a Principal Consultant and Data Science/ML Lead, I've carved a niche in delivering high-value projects for the energy sector. My journey is defined by bridging the gap between complex technological solutions and core business needs, fostering a culture of data-driven decision making within organizations.
+With 20 years of software development experience, including 10 years specializing in data science and machine learning leadership, I bring a strong technical foundation to solving complex problems. I specialize in building teams, delivering impactful ML solutions, and driving technical excellence across organizations. My focus is on solving real business problems through practical application of advanced analytics and machine learning.
 
-In my leadership roles, I've focused on building and nurturing teams, guiding them to implement best practices in data science and machine learning, while closely collaborating with stakeholders to align technological solutions with business objectives.
+## Key Projects & Achievements
 
-## Personal Philosophy
+**High-Performance Screening Engines**
+Built compliance screening systems at ARC Comply that deliver high accuracy and performance, enabling compliance teams to work more efficiently and effectively with complex regulatory requirements.
 
-I am a firm believer in the transformative power of data. My approach is grounded in using data science not just as a means for insights, but as a strategic asset for long-term organizational growth.
+**Demand Forecasting & Price Optimization**
+Delivered machine learning solutions for fuel and midstream business operations, driving measurable business impact through improved forecasting accuracy and pricing strategies.
+
+**Data Science Accelerator & Community of Practice**
+Established data science capabilities from the ground up in multiple organizations, creating collaborative environments where teams can share knowledge, develop skills, and deliver better solutions together. This aligns with my belief that technical leadership is as much about building people as building systems.
+
+**Computer Vision for Microscopy**
+Developed domain-specific computer vision applications for microscopy analysis, demonstrating the breadth of ML applications across different technical domains.
+
+**NLP for Unstructured Data**
+Built NLP solutions to extract structure and value from unstructured data sources, turning previously inaccessible information into actionable business insights.
+
+**MLOps & Enterprise AI**
+Designed and implemented enterprise-scale ML pipelines with focus on reproducibility, deployment efficiency, and performance optimization, ensuring ML solutions deliver sustained value in production environments.
 
 ## Contact
 
-For collaborations, consultations, or to connect professionally, reach out to me at:
+For professional connections and collaborations:
 
-LinkedIn: [attibalazs](https://www.linkedin.com/in/attilabalazs/)
-
-Let's connect and explore how data science can drive your next big leap!
-
-
-
+LinkedIn: [attilabalazs](https://www.linkedin.com/in/attilabalazs/)
